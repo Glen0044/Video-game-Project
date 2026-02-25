@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="AnVu-Laptop.VideoGameDW"
+  DTS:DTSID="{888CD9D6-6163-4DA5-BED2-B866EB3E42ED}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=AnVu-Laptop;Initial Catalog=VideoGameDW;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-video games Project1-{888CD9D6-6163-4DA5-BED2-B866EB3E42ED}AnVu-Laptop.VideoGameDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
